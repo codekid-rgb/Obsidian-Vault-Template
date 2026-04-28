@@ -1,0 +1,5 @@
+# Video files — too large for git, synced via rsync
+yard/videos/
+
+# macOS
+.DS_Store
