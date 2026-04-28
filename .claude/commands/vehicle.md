@@ -38,7 +38,7 @@
 [Who owns it, price, likely ask]
 
 ## Parts Availability
-[Especially what's in great uncle Gilles' yard]
+[Local sources, junkyards, online suppliers]
 
 ## My Assessment
 **Status:** [Active consideration / Ideas folder / Eliminated / Acquired]
